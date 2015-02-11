@@ -7,8 +7,6 @@
 
    AUTHOR: Erik Sandfort     
 
-   ASSIGNMENT: Lab 7 
-
    DATE: Started on 11/12/10       
 
    DESCRIPTION: A Chess Game
